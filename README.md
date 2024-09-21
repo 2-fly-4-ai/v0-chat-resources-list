@@ -224,7 +224,7 @@ Join these vibrant communities to connect with fellow developers, share your Sha
 
 **Stay informed about the latest developments by following these Twitter accounts.**
 
-- **shadcn:** [https://x.com/shadcn?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor](https://x.com/shadcn?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) - Stay up-to-date with the latest developments from Shadcn/ui.
+- **shadcn:** [shadcn](https://x.com/shadcn) - Stay up-to-date with the latest developments from Shadcn/ui.
 
 Stay in the loop and get insights from the creators and experts in the Shadcn/ui and v0 chat ecosystem by following these Twitter accounts.
 
