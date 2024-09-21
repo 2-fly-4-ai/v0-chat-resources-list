@@ -15,21 +15,19 @@ Here's a list of things to help you get started with <a href='https://v0.dev/cha
 <i>Created by: <a href='https://farleythecoder.com/' target="_blank">farleythecoder.com</a></i>
 <br><br>
 
-## Before you get started!
+## Before You Get Started!
 
-Welcome! For those of you looking to get started with the V0 chat, the AI component Generator tool, I have compiled this list of resources 👇. I hope you find it helpful!
+Welcome! For those of you looking to get started with the V0 chat, the AI Component Generator tool, I have compiled this list of resources. I hope you find it helpful!
 
-Just a bit about me. I've spent the last 5 years immersed in the ML and full-stack application space, with a recent focus on building type-safe applications using Next.js, Shadcn/ui, and Tailwind CSS. The Shadcn UI library and v0 have revoloutionalized my workflow and I highly recommend checking it out. This is going to shape the Frontend landscape for the coming years.
+A bit about me: I’ve spent the last 5 years immersed in the ML and full-stack application space, with a recent focus on building type-safe applications using Next.js, Shadcn/UI, and Tailwind CSS. The Shadcn UI library and V0 have revolutionized my workflow, and I highly recommend checking them out. This is going to shape the frontend landscape for the coming years.
 
-### What is v0 chat?
+### What is V0 Chat?
 
-v0 chat is an AI-powered chatbot that generates frontend components for your applications. Just type in what you want to create and the AI will generate the code for you. It's that simple!
+V0 Chat is an AI-powered chatbot that generates frontend components for your applications. Just type in what you want to create, and the AI will generate the code for you. It’s that simple!
 
-If you're already comfortable with Tailwind CSS, Next.js, and Shadcn components, v0 chat will feel like a natural extension of your workflow.
+If you're already comfortable with Tailwind CSS, Next.js, and Shadcn components, V0 Chat will feel like a natural extension of your workflow.
 
-However, if you're new to these technologies, don't worry! I've compiled a list of starter resources to help you get up to speed. You'll also find a curated collection of awesome Shadcn components and community-built resources to inspire you and take your development skills to the next level.
-
-Let's get started!
+However, if you're new to these technologies, don't worry! I've compiled a list of starter resources to help you get up to speed👇. You’ll also find a curated collection of awesome Shadcn components and community-built resources to inspire you and take your development skills to the next level.
 
 ## Getting Started Resources
 
