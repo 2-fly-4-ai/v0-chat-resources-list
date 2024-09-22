@@ -54,7 +54,7 @@ Remember this system is built on the Shadcn, Radix Primitives and tailwinds. In 
 - [shadcn Charts](https://ui.shadcn.com/charts) - Explore various chart components for visualizing data.
 - [shadcn Typography](https://ui.shadcn.com/docs/components/typography) - Discover pre-defined styles for headings, paragraphs, lists, and more.
 
-If you check on the shadcnUI website, there is an option to edit the blocks. Simply click on "Open in V0" and you can now edit these components using the v0 chat. This is a great way to get started and see what you can create with v0 chat.
+If you check on the shadcnUI website, there is an option to edit the blocks. Simply click on "Open in V0" and you can now edit these components using the v0 chat.
 
 ## ShadCN UI Design System
 
