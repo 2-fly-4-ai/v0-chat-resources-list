@@ -98,7 +98,6 @@ These resources will provide you with the tools and inspiration to bring your Sh
 **Discover a selection of high-quality components built with or for Shadcn/ui.**
 
 - [shadcn-ui-sidebar](https://github.com/salimi-my/shadcn-ui-sidebar) - A visually stunning, functional, and responsive retractable sidebar built on top of shadcn/ui.
-- [shadcn-ui-sidebar](https://github.com/salimi-my/shadcn-ui-sidebar) - A visually stunning, functional, and responsive retractable sidebar built on top of shadcn/ui.
 - [auto-form](https://github.com/vantezzen/auto-form) - A React component that automatically generates a Shadcn/ui form based on a Zod schema.
 - [capture-photo](https://github.com/UretzkyZvi/capture-photo) - A versatile, browser-based React component for integrating camera functionalities into your web applications.
 - [confirm-dialog](https://github.com/Aslam97/react-confirm-dialog) - A confirmation dialog component built with Shadcn/ui.
@@ -137,7 +136,7 @@ These components showcase the versatility and extensibility of Shadcn/ui, provid
 
 ## Full Component Libraries For Shadcn
 
-**Feat your eyes on these complete component libraries built upon or inspired by Shadcn/ui.**
+**Feast your eyes on these complete component libraries built upon or inspired by Shadcn/ui.**
 
 - [aceternity-ui](https://ui.aceternity.com/) - A collection of trending React components with pre-built styling and animations.
 - [cult-ui](https://www.cult-ui.com/) - A curated set of animated Shadcn-style React components for specific use cases.
