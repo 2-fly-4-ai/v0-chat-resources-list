@@ -19,8 +19,6 @@ Here's a list of things to help you get started with <a href='https://v0.dev/cha
 
 Welcome! For those of you looking to get started with the V0 chat, the AI Component Generator tool, I have compiled this list of resources. I hope you find it helpful!
 
-A bit about me: I’ve spent the last 5 years immersed in the ML and full-stack application space, with a recent focus on building type-safe applications using Next.js, Shadcn/UI, and Tailwind CSS. The Shadcn UI library and V0 have revolutionized my workflow, and I highly recommend checking them out. This is going to shape the frontend landscape for the coming years.
-
 ### What is V0 Chat?
 
 V0 Chat is an AI-powered chatbot that generates frontend components for your applications. Just type in what you want to create, and the AI will generate the code for you. It’s that simple!
