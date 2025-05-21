@@ -232,12 +232,3 @@ Stay in the loop and get insights from the creators and experts in the Shadcn/ui
 - **Shadcn/ui GitHub Discussions:** [https://github.com/shadcn/ui/discussions](https://github.com/shadcn/ui/discussions) - Participate in discussions and ask questions on the GitHub repository.
 - **Shadcn/ui Official Documentation:** [https://ui.shadcn.com/docs](https://ui.shadcn.com/docs) - A comprehensive guide to using Shadcn/ui components and features.
 
-## Mentions
-
-A huge thanks to **[@birobirobiro](https://github.com/birobirobiro)** for creating the original resource list that inspired this guide. It has been a huge help in learning and implementing shadCN! I've built upon their excellent work by simplifying the format, adding resources specifically relevant to v0 chat, and (hopefully) tailoring it to be even more beginner-friendly.
-
-A huge shoutout to the incredible team behind the T3 Stack! This stack is an absolute game-changer, and working with it over the past year has been a pure joy. Their dedication to creating a developer-friendly and productive experience is truly appreciated.
-
-Massive thanks to Vercel for creating v0 chat and pushing the boundaries of machine learning in frontend and fullstack development! This tool has the potential to revolutionize the way we build user interfaces, and I'm excited to see its continued evolution.
-
-Blogs and videos on how to build an app with v0 chat and Shadcn/ui will be added to this list in the future. Stay tuned for more resources and updates!
